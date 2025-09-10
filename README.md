@@ -11,3 +11,4 @@ LS1088ardb Ethernet Firmware - Phiên bản uboot 3.4G
 - Nếu thích Ram lên mức 3.8G, vào uboot và xóa biến mcmemsize
 	- setenv mcmemsize
 	- saveenv
+https://docs.google.com/document/d/121nXMmWnfajgFSq6VczY5CXM88N3zI8oYBkQqMtZWIc/edit?tab=t.0
